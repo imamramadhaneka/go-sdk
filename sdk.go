@@ -3,13 +3,13 @@ package sdk
 import (
 	"sync"
 
-	"bitbucket.org/sehatQ/go-sdk/activityservice"
-	"bitbucket.org/sehatQ/go-sdk/digiqare"
-	"bitbucket.org/sehatQ/go-sdk/mqservice"
-	"bitbucket.org/sehatQ/go-sdk/netcore"
-	"bitbucket.org/sehatQ/go-sdk/paymentservice"
-	"bitbucket.org/sehatQ/go-sdk/telemed"
-	"bitbucket.org/sehatQ/go-sdk/userservice"
+	"github.com/imamramadhaneka/go-sdk/activityservice"
+	"github.com/imamramadhaneka/go-sdk/digiqare"
+	"github.com/imamramadhaneka/go-sdk/mqservice"
+	"github.com/imamramadhaneka/go-sdk/netcore"
+	"github.com/imamramadhaneka/go-sdk/paymentservice"
+	"github.com/imamramadhaneka/go-sdk/telemed"
+	"github.com/imamramadhaneka/go-sdk/userservice"
 )
 
 // Option func type

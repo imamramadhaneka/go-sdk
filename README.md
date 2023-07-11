@@ -1,4 +1,4 @@
-# Go Helper
+# Go SDK
 
 <p align="center"><img src="https://ekahospital.com/images/Eka_Hospital_logo.png" width="210"></p>
 <p align="center">
